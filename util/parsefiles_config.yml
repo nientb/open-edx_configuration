@@ -32,7 +32,6 @@ weights:
   - ecomworker: 4
   - notes: 2
   - mongo: 1
-  - devpi: 1
   - jenkins_build: 8
   - jenkins_worker: 23
   - analytics_pipeline: 8
